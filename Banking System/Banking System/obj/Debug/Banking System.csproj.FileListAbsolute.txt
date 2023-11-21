@@ -1,0 +1,46 @@
+D:\console\Banking System\Banking System\bin\Debug\Banking System.exe.config
+D:\console\Banking System\Banking System\bin\Debug\Banking System.exe
+D:\console\Banking System\Banking System\bin\Debug\Banking System.pdb
+D:\console\Banking System\Banking System\obj\Debug\Banking System.csproj.AssemblyReference.cache
+D:\console\Banking System\Banking System\obj\Debug\MainWindow.g.cs
+D:\console\Banking System\Banking System\obj\Debug\App.g.cs
+D:\console\Banking System\Banking System\obj\Debug\Banking System_MarkupCompile.cache
+D:\console\Banking System\Banking System\obj\Debug\Banking System_MarkupCompile.lref
+D:\console\Banking System\Banking System\obj\Debug\MainWindow.baml
+D:\console\Banking System\Banking System\obj\Debug\Banking System.g.resources
+D:\console\Banking System\Banking System\obj\Debug\Banking_System.Properties.Resources.resources
+D:\console\Banking System\Banking System\obj\Debug\Banking System.csproj.GenerateResource.cache
+D:\console\Banking System\Banking System\obj\Debug\Banking System.csproj.CoreCompileInputs.cache
+D:\console\Banking System\Banking System\obj\Debug\Banking System.exe
+D:\console\Banking System\Banking System\obj\Debug\Banking System.pdb
+D:\console\Banking System\Banking System\bin\Debug\MySql.Data.dll
+D:\console\Banking System\Banking System\obj\Debug\Banking System.csproj.CopyComplete
+D:\console\Banking System\Banking System\obj\Debug\LogIn.g.cs
+D:\console\Banking System\Banking System\obj\Debug\LogIn.baml
+D:\Banking System\Banking System\bin\Debug\Banking System.exe.config
+D:\Banking System\Banking System\bin\Debug\Banking System.exe
+D:\Banking System\Banking System\bin\Debug\Banking System.pdb
+D:\Banking System\Banking System\bin\Debug\MySql.Data.dll
+D:\Banking System\Banking System\obj\Debug\Banking System.csproj.AssemblyReference.cache
+D:\Banking System\Banking System\obj\Debug\LogIn.g.cs
+D:\Banking System\Banking System\obj\Debug\MainWindow.g.cs
+D:\Banking System\Banking System\obj\Debug\App.g.cs
+D:\Banking System\Banking System\obj\Debug\Banking System_MarkupCompile.cache
+D:\Banking System\Banking System\obj\Debug\Banking System_MarkupCompile.lref
+D:\Banking System\Banking System\obj\Debug\LogIn.baml
+D:\Banking System\Banking System\obj\Debug\MainWindow.baml
+D:\Banking System\Banking System\obj\Debug\Banking System.g.resources
+D:\Banking System\Banking System\obj\Debug\Banking_System.Properties.Resources.resources
+D:\Banking System\Banking System\obj\Debug\Banking System.csproj.GenerateResource.cache
+D:\Banking System\Banking System\obj\Debug\Banking System.csproj.CoreCompileInputs.cache
+D:\Banking System\Banking System\obj\Debug\Banking System.csproj.CopyComplete
+D:\Banking System\Banking System\obj\Debug\Banking System.exe
+D:\Banking System\Banking System\obj\Debug\Banking System.pdb
+D:\Banking System\Banking System\obj\Debug\MainPage.g.cs
+D:\Banking System\Banking System\obj\Debug\MainPage.baml
+D:\Banking System\Banking System\bin\Debug\LiveCharts.dll
+D:\Banking System\Banking System\bin\Debug\LiveCharts.Wpf.dll
+D:\Banking System\Banking System\bin\Debug\LiveCharts.pdb
+D:\Banking System\Banking System\bin\Debug\LiveCharts.xml
+D:\Banking System\Banking System\bin\Debug\LiveCharts.Wpf.pdb
+D:\Banking System\Banking System\bin\Debug\LiveCharts.Wpf.xml
